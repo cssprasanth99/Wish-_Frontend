@@ -1,0 +1,10 @@
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5488c4;
+    margin: 20px 100px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
